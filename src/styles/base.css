@@ -47,7 +47,12 @@ h6 {
 }
 
 li {
-  list-style: none;
+  /* list-style: none; */
+}
+
+ul {
+  margin-left: 1.5rem;
+  margin-top: 1rem;
 }
 
 button {
